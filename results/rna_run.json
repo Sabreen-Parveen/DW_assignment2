@@ -1,0 +1,22 @@
+{
+  "dataset": "rna",
+  "data_path": null,
+  "k": [
+    100,
+    500
+  ],
+  "m": [
+    1000,
+    2000,
+    5000
+  ],
+  "methods": [
+    "uniform",
+    "lwcs",
+    "cs"
+  ],
+  "reps": 10,
+  "full_reps": 3,
+  "max_iter": 300,
+  "out": "/Users/sabreen/Documents/ADS/DW/Assignment/Assignment2/lightweight-coresets-kmeans/solution/results"
+}
